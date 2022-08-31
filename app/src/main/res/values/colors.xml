@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="green">#2da252</color>
+    <color name="green_06">#0f2da252</color>
+    <color name="green_08">#cc2da252</color>
+    <color name="black1">#000000</color>
+    <color name="black1_30">#4d000000</color>
+    <color name="black1_35">#59000000</color>
+    <color name="black1_50">#80000000</color>
+    <color name="black2">#333333</color>
+    <color name="black2_30">#4d333333</color>
+    <color name="gray1">#666666</color>
+    <color name="gray2">#979797</color>
+    <color name="gray3">#b6b6b6</color>
+    <color name="ivory1">#e1e1de</color>
+    <color name="ivory0">#eeeeee</color>
+    <color name="ivory1_10">#1ae1e1de</color>
+    <color name="ivory1_50">#80e1e1de</color>
+    <color name="ivory2">#f2f2ee</color>
+    <color name="ivory2_50">#80f2f2ee</color>
+    <color name="ivory3">#fbfbf8</color>
+    <color name="yellow">#eccb3b</color>
+    <color name="red">#c85e53</color>
+    <color name="blue_bit">#5158e2</color>
+    <color name="notAgree_red">#C85E53</color>
+</resources>

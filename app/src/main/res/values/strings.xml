@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JavaAmiLayout</string>
+
+
+    <!-- 고객확인 안내 -->
+    <string name="customer_confirmation_info">고객확인 안내</string>
+    <string name="what_is_customer_verification">고객확인이란?</string>
+    <string name="in_accordance_with_anti_money">자금 세탁 방지 관련 법령에 따라 주기적으로 고객님의 정보를 확인 하고 있습니다.</string>
+    <string name="customer_center_1522_9746">* 특정 금융 정보법에 따라 고객 확인 의무 미 이행 시 결제 및 송금 등의 이용이 제한됩니다. 고객센터 1522–9746</string>
+    <string name="I_agree_to_all_of_the_following">이용 약관에 모두 동의 합니다.</string>
+    <string name="notes_on_using_the_service">(필수) 서비스 이용 유의사항</string>
+    <string name="personal_info_collection_and_usage_agreement">(필수) 개인정보 수집 및 이용 동의</string>
+    <string name="agree_unique_identification_info_processing">(필수) 고유식별정보 처리 동의</string>
+    <string name="next_button">다음</string>
+    <string name="red_change_client">고객 확인 의무 미 이행 시 결제 및 송금 등의 이용이 제한</string>
+
+
+    <!-- 회원정보 입력 (PutClientInfoFragment) -->
+    <string name="passport_lastname">영문 성</string>
+    <string name="passport_firstname">영문 이름</string>
+    <string name="please_enter_the_correct_name">여권에 기재되어 있는 영문 명을 정확히 입력하세요</string>
+    <string name="please_enter_your_residence">거주지를 입력하세요</string>
+    <string name="postal_code">우편번호</string>
+    <string name="address">주소</string>
+    <string name="detailed_address">상세주소</string>
+    <string name="enter_the_purpose_of_the_transaction">거래 목적 및 자금 출처를 입력하세요</string>
+    <string name="other_enter_the_purpose_of_the_transaction">거래 목적을 입력하세요(기타)</string>
+    <string name="other_enter_funding_source">자금 출처를 입력하세요(기타)</string>
+
+
+    <!-- 사업자 정보 입력 (BusinessInfoFragment) -->
+    <string name="are_you_individual_or_corporate">개인 또는 법인 사업자 입니까?</string>
+    <string name="enter_business_info">사업자정보를 입력하세요</string>
+    <string name="enter_your_business_registration_number">사업자 등록 번호를 입력하세요</string>
+    <string name="company_registration_number">사업자 등록 번호</string>
+    <string name="opening_date">개업 일자</string>
+    <string name="representative_name">대표자 성명</string>
+    <string name="company_name">상호</string>
+    <string name="corporate_registration_number">법인 등록 번호</string>
+    <string name="main_business_name">주 업태명</string>
+    <string name="main_business_type_name">주 업종명</string>
+    <string name="enter_your_business_headquarters_address">사업장(본점) 주소지를 입력하세요</string>
+    <string name="head_office_contact_info">본점 연락처를 입력하세요</string>
+    <string name="business_establishment_info">사업장 정보를 입력하세요</string>
+    <string name="same_as_the_head_office">사업장 정보가 본점 정보와 동일합니다.</string>
+    <string name="enter_business_contact_info">사업장 연락처를 입력하세요</string>
+    <string name="enter_corporate_info">법인 정보를 입력하세요</string>
+    <string name="other_company_type">기업형태를 입력하세요(기타)</string>
+    <string name="corporate_representative_info">법인 대표 정보를 입력하세요</string>
+    <string name="representative_name_korean">대표자 이름을 입력하세요(한글)</string>
+    <string name="enter_your_birthday">생년월일을 입력하세요</string>
+    <string name="enter_purpose_of_incorporation">법인 설립 목적을 입력하세요</string>
+    <string name="other_purpose_of_incorporation">법인 설립 목적을 입력하세요(기타)</string>
+    <string name="stock_listing_info">상장 정보를 입력하세요</string>
+    <string name="other_stock_listing_type">상장 유형을 입력하세요(기타)</string>
+    <string name="register_corporate_authentication_info">법인 인증 정보를 등록해주세요</string>
+    <string name="register_your_business_license">사업자등록증을 등록해주세요</string>
+    <string name="register_copy_of_the_corporate_register">법인등기부등본을 등록해주세요</string>
+
+
+    <!-- 가상화폐 취급확인 입력 (CoinCheckFragment) -->
+    <string name="do_you_handle_cryptocurrency">가상화폐를 취급하고 있습니까?</string>
+    <string name="using_real_name_deposit_account">실명 확인 입출금 계정 서비스를 이용하고 있습니까?</string>
+    <string name="plan_using_real_name_service">실명 확인 입출금 계정 서비스 이용 계획이 있습니까?</string>
+    <string name="verifying_your_identity_including_info">이용자의 생년월일, 주소, 연락처 등을 포함한 신원을 확인하고 있습니까?</string>
+    <string name="company_managed_separately">회사의 고유재산과 이용자의 예탁, 거래금을 분리하여 관리하고 있습니까?</string>
+    <string name="company_classify_manage_transaction_detail_each_other">회사가 이용자 별 거래 내역을 구분하여 관리하고 있습니까?</string>
+    <string name="notify_and_explain_the_fact_legal">회사가 이용자를 상대로 가상통화는 법정화폐가 아니라는 사실과 가상통화의 위험에 대한 고지 및 설명을 하고 있습니까?</string>
+    <string name="company_operate_separate_accounts_virtual_currency">회사가 가상 화폐관련 집금을 위해 임직원 계좌 등 별도의 계좌를 운용하고 있습니까?</string>
+    <string name="complying_korean_government">대한민국 정부에서 발표하는 가상통화와 관련한 정책을 준수하고 있습니까?</string>
+
+
+    <!-- Pop - Up 창 -->
+    <string name="pop_custom_verifi_complete">고객확인 완료</string>
+    <string name="pop_custom_verifi_has_been_complete">고객확인이 완료 되었습니다.</string>
+    <string name="pop_keep_going_service">서비스 이용을 계속 진행하세요.</string>
+
+    <string name="pop_72_custom_check_done_title">고객확인 접수 완료</string>
+    <string name="pop_72_customer_check_done_tv">고객확인 접수가 완료 되었습니다.</string>
+    <string name="pop_72_hour">승인까지 영업일 기준 \n최대 72시간이 소요 될 수 있습니다.</string>
+    <string name="pop_72_1522_9746">고객센터 : 1522–9746</string>
+    <string name="done_button">확인</string>
+</resources>
